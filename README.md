@@ -1,2 +1,3 @@
-# ivyan1204-cyber.github.io
-严然的个人作品集
+# 严然 · Portfolio
+
+Static portfolio website. Entry: index.html. Publish with GitHub Pages from main / (root).
